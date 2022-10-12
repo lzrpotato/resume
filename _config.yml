@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: Zhirui Luo
-title: PhD candidate
+title: PhD candidate, NMT
 email: zhirui.luo@student.nmt.edu
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,15 +52,10 @@ googlescholar_username: CrXvC5QAAAAJ&hl
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](images/landscape-trees.jpg "Trees")
+  I am a PhD student at the Department of Computer Science at [NMT](https://www.cs.nmt.edu). I have been working in the Human-centered Computing and Security Lab ([HCCS](https://sites.google.com/a/nmt.edu/human-centered-computing-and-security-lab/)), advised by Dr. Jun Zheng.
+  My current research is focused on learning deep learning model on various applications such as smart meter data, social computing, and computer vision, etc.
 
 content:
   - title: Projects # Title for the section
