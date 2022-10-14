@@ -46,8 +46,8 @@ googlescholar_username: CrXvC5QAAAAJ&hl
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-gtm: "GTM-WZ3P28K"
-# gtag: "UA-00000000-0"
+# gtm: "GTM-WZ3P28K"
+gtag: "G-VH64NJ4XGS"
 # google_analytics: "UA-00000000-0"
 
 # About Section
