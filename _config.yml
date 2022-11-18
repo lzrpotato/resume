@@ -54,10 +54,31 @@ gtag: "G-VH64NJ4XGS"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student at the Department of Computer Science at [NMT](https://www.cs.nmt.edu). I have been working in the Human-centered Computing and Security Lab ([HCCS](https://sites.google.com/a/nmt.edu/human-centered-computing-and-security-lab/)), advised by Dr. Jun Zheng.
+  I am a PhD student at the Department of Computer Science and Engineering (CSE) at [NMT](https://www.cs.nmt.edu). I have been working in the Human-centered Computing and Security Lab ([HCCS](https://sites.google.com/a/nmt.edu/human-centered-computing-and-security-lab/)), advised by Dr. Jun Zheng.
   My current research is focused on learning deep learning model on various applications such as smart meter data, social computing, and computer vision, etc.
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: CSE, New Mexico Institute of Mining and Technology
+        sub_title: Ph.D.
+        caption: 2020-Now
+        description: | # this will include new lines to allow paragraphs
+          Computer Science & Engineering
+      - layout: top-right
+        title: CSE, New Mexico Institute of Mining and Technology
+        sub_title: M.S.
+        caption: 2018-2020
+      - layout: top-right
+        title: CSE, New Mexico Institute of Mining and Technology
+        sub_title: B.S.
+        caption: 2015-2017
+      - layout: top-right
+        title: Software Engineering, Yangtze University
+        sub_title: B.E.
+        caption: 2012-2015
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -90,17 +111,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: New Mexico Institute of Mining and Technology
-        sub_title: PhD degree
-        caption: 2020-2023
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
