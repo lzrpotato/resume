@@ -61,21 +61,21 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: CSE, New Mexico Institute of Mining and Technology
         sub_title: Ph.D.
         caption: 2020-Now
-        description: | # this will include new lines to allow paragraphs
-          Computer Science & Engineering
-      - layout: top-right
+        # description: | # this will include new lines to allow paragraphs
+        #   Computer Science & Engineering
+      - layout: left
         title: CSE, New Mexico Institute of Mining and Technology
         sub_title: M.S.
         caption: 2018-2020
-      - layout: top-right
+      - layout: left
         title: CSE, New Mexico Institute of Mining and Technology
         sub_title: B.S.
         caption: 2015-2017
-      - layout: top-right
+      - layout: left
         title: Software Engineering, Yangtze University
         sub_title: B.E.
         caption: 2012-2015
